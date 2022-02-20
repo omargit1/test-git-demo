@@ -1,3 +1,6 @@
 function addM(int a, int b) {
  return a+b;
 }
+function multiM(int a, int b) {
+ return a*b;
+}
