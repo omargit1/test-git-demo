@@ -11,7 +11,7 @@ public class Test {
 		return a+b;		
 	}
 	
-	public int addB(int a, int b) {
+	public int addB0222(int a, int b) {
 		return a+b;		
 	}
 
