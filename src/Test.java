@@ -10,5 +10,9 @@ public class Test {
 	public int sumB(int a, int b) {
 		return a+b;		
 	}
+	
+	public int addB(int a, int b) {
+		return a+b;		
+	}
 
 }
